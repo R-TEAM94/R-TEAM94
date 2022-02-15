@@ -1,3 +1,11 @@
+## AUTHOR AT R-TEAM94 🏆
+<a href="https://github.com/FBOTZ-YT"><img src="https://github.com/FBOTZ-YT.png?size=100" width="100" height="100"></a> | [![RYUUKA](https://github.com/YdzAja.png?size=100)](https://github.com/YdzAja) 
+---|---
+[Fandyyy](https://github.com/FBOTZ-YT)  | [Ryuuka](https://github.com/YdzAja)
+Constributor | Owner Of Ryubotz |
+
+---
+
 ## Hello, Friends ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - We Are Ryuuka Team
