@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://wa.me/message/FDEA65XQNZMAF1"><img src="https://img.shields.io/badge/WhatsApp%20Fandyyy-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://wa.me/6283891921787"><img src="https://img.shields.io/badge/WhatsApp%20Ryuuka-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://wa.me/message/FDEA65XQNZMAF1"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA"><img src="https://img.shields.io/badge/YouTube-Ryuuka%20Botz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA" /><br>
   <a name=R-TEAM94&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/R-TEAM94"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
@@ -29,11 +29,7 @@
 
 ## Repo Stats 📝
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=FBOTZ-YT&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=RyuBotzMD&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=Hisoka-Morou&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=ShiraoriBot-MD&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=FBOTZ-YT&repo=Wabot-Aq&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=R-TEAM94&repo=R-TEAM94&theme=dark)
 
 ---
 
@@ -49,6 +45,6 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/FbotzYT2?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+![Metrics](https://metrics.lecoq.io/R-TEAM94?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
 </details> 
